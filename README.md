@@ -9,4 +9,4 @@ The source code is a JAVA project, use Eclipse (or others IDE you like) to open 
     java -jar Star_war.jar
     ```
 ## The demo video
-[https://youtu.be/3BaAbtx1x58](https://youtu.be/3BaAbtx1x58)
+[https://youtu.be/ybJ8_Iysw4I](https://youtu.be/ybJ8_Iysw4I)
